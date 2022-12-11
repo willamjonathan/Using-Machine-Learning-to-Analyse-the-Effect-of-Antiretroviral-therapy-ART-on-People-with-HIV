@@ -18,7 +18,7 @@ It contains the result of the data cleaning.<br>
   
 <br><br>
 Thank you!<br>
-<br>
+<br><br><br>
 Regards,<br>
 William Jonathan Mulyadi
 
