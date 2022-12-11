@@ -1,5 +1,5 @@
 <b><h1>DATA CLEANING</h1></b>
-<h2><b>Dear reader,<br></b></h2>
+<h3><b>Dear reader,<br></b></h3>
 <br>
 There are <u>3 files</u> in this page that you can find:<br><br>
 1.art_coverage_by_country_clean.csv<br>
