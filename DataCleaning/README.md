@@ -16,7 +16,7 @@ It contains the code and process regarding how I cleaned the data.<br>
 It contains the result of the data cleaning.<br>
   
   
-<br>
+<br><br>
 Thank you!<br>
 <br>
 Regards,<br>
