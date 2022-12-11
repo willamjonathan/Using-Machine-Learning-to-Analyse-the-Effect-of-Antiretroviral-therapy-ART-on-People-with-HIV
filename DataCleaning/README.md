@@ -10,12 +10,12 @@ There are <u>3 files</u> in this page that you can find:<br><br>
 <h1>Details :</h1><br>
 <u>The file named: art_coverage_by_country_clean.csv<br><u> 
 It contains the data that I took from kaggle and will be cleaned later on.<br>
-
 <u>The file named: DataCleaning_FP.ipynb<br></u> 
 It contains the code and process regarding how I cleaned the data.<br>
-
 <u>The file named: cleaned-HIVdata.csv<br></u> 
 It contains the result of the data cleaning.<br>
+  
+  
 <br>
 Thank you!<br>
 <br>
