@@ -22,7 +22,7 @@ Link: https://www.kaggle.com/datasets/imdevskp/hiv-aids-dataset?resource=downloa
   
 <br><br>
 Thank you!<br>
-<br><br><br>
+<br><br>
 Regards,<br>
 William Jonathan Mulyadi
 
