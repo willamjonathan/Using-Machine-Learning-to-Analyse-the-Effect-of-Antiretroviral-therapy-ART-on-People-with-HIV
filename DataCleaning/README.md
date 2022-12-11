@@ -1,18 +1,20 @@
 <b><h1>DATA CLEANING</h1></b>
 <b>Dear reader,<br></b>
 <br>
-There are <u>3 files</u> in this page that you can find.<br><br>
+There are <u>3 files</u> in this page that you can find:<br><br>
 1.art_coverage_by_country_clean.csv<br>
 2.DataCleaning_FP.ipynb<br>
 3.cleaned-HIVdata.csv<br>
 <br>
-<u><h3>The file named: art_coverage_by_country_clean.csv<br></h3><u> 
+
+<h1>Details :</h1><br>
+<u>The file named: art_coverage_by_country_clean.csv<br><u> 
 It contains the data that I took from kaggle and will be cleaned later on.<br>
 
-<u><h3>The file named: DataCleaning_FP.ipynb<br></h3></u> 
+<u>The file named: DataCleaning_FP.ipynb<br></u> 
 It contains the code and process regarding how I cleaned the data.<br>
 
-<u><h3>The file named: cleaned-HIVdata.csv<br></h3></u> 
+<u>The file named: cleaned-HIVdata.csv<br></u> 
 It contains the result of the data cleaning.<br>
 <br>
 Thank you!<br>
