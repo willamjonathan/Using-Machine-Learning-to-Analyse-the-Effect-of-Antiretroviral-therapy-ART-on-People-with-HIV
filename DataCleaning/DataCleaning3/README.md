@@ -9,7 +9,7 @@ There are <u>3 files</u> in this page that you can find:<br><br>
 
 <h1>Details :</h1><br>
 <u>The file named: data.csv<br><u> 
-It contains the data that I took from who.int and will be cleaned later on.<br>
+It contains the data that I took from who.int and will be cleaned later on (on the reference).<br>
 <u>The file named: DataCleaning_HIV_allyear.ipynb<br></u> 
 It contains the code and process regarding how I cleaned the data.<br>
 <u>The file named: HIV-overyear-cleaned.csv<br></u> 
