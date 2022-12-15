@@ -1,0 +1,13 @@
+,,,
+,NO,CSV NAME,LINK
+,1,art_coverage_by_country_clean.csv,https://www.kaggle.com/datasets/imdevskp/hiv-aids-dataset?resource=download&select=art_coverage_by_country_clean.csv
+,,,
+,2,data.csv,https://www.who.int/data/gho/data/indicators/indicator-details/GHO/estimated-number-of-people--living-with-hiv
+,,,
+,3,cleaned-HIVdata.csv,https://github.com/willamjonathan/FODS-FP/blob/main/DataCleaning/DataCleaning1/DataCleaning_FP.ipynb
+,,,
+,4,HIV-overyear-cleaned.csv,https://github.com/willamjonathan/FODS-FP/blob/main/DataCleaning/DataCleaning3/DataCleaning_HIV_allyear.ipynb
+,,,
+,5,10yearperiodHIVdata-cleaned.csv,https://github.com/willamjonathan/FODS-FP/blob/main/DataCleaning/DataCleaning4/HIV_10yeardata.ipynb
+,,,
+,6,10yearperiodHIVdata-cleaned.csv,https://github.com/willamjonathan/FODS-FP/blob/main/DataCleaning/DataCleaning4/HIV_10yeardata.ipynb
