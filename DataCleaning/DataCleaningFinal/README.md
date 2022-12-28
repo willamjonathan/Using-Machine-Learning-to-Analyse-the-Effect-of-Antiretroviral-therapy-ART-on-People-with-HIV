@@ -5,7 +5,7 @@ There are <u>2 files and 2 foleders</u> in this page that you can find:<br><br>
 1.FP_cleaning<br>
 2.FODS_describe<br>
 
-<br>The folders are:<br>
+<br>The folders are:<br><br>
 a. Result<br>
 b. Raw<br>
 
@@ -16,7 +16,7 @@ b. Raw<br>
 It contains the code and data that I took from several link from the internet (who and world bank). Then I cleaned it and process it.<br>
 <u>2. The file named: FODS_describe <br></u> 
 It contains the code that I wrote. I used the result from FP_cleaning and find the mean for each of the category in FP_cleaning.<br>
-
+<br>
 <u>a. The file named: Result <br><u> 
 The csv result of the data cleaning process.<br>
 <u>b. The file named: Raw <br></u> 
