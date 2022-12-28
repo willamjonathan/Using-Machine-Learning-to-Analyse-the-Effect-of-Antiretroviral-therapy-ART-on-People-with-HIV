@@ -19,10 +19,8 @@ It contains the last result of the data cleaning which result in 2 csv files and
    -->
 <br>
 <h1>References :</h1><br><br>
-The csv file is processed from: <br><br>
-Link (Kaggle) : https://www.kaggle.com/datasets/imdevskp/hiv-aids-dataset?resource=download&select=art_coverage_by_country_clean.csv<br>
-Link (WHO): https://www.who.int/data/gho/data/indicators/indicator-details/GHO/estimated-number-of-people--living-with-hiv<br>
-Link (addmanually): https://www.worldometers.info/world-population/population-by-country/<br>
+To see the references, please open the file named "dataset.csv". <br>
+
   
   
 <br><br>
