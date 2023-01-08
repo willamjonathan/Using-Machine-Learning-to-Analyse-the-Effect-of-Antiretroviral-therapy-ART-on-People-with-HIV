@@ -10,7 +10,7 @@ Human immunodeficiency virus or HIV is a virus that attacks the body’s immune 
 2. Methodology<br>
 3. dataset.csv<br>
 <!-- There are <u>3 folders</u> in this page that you can find:<br><br>
-1.DataCleaning1<br>
+<ul><li>DataCleaning1</li><br>
 2.DataCleaning2<br>
 3.DataCleaning3<br> -->
 
