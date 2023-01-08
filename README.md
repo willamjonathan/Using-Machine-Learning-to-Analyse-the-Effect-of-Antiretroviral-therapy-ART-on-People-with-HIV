@@ -5,6 +5,9 @@
 <h1>Details of the project:</h1><br>
 Human immunodeficiency virus or HIV is a virus that attacks the body’s immune system. HIV is a virus that has become a world problem as its cure has not yet been found. The HIV can go to an undetected state if only treated by ART or antiretroviral therapy. Hence, knowing the danger that HIV brings, we are here to analyze the HIV using with several of its categories between 75 countries. We are planning to use machine learning techniques that are available. We will use both supervised and unsupervised learning, then we will do evaluation by using accuracy testing. After that, we will conclud ewhich machine learning is the best to applied to our dataset.
 <br>
+<h1> Team members: </h1><br>
+1. William Jonathan Mulyadi - 2502045683 - L3AC
+2. Hansel Faren - 2501990350 - L3AC
 <h1> Goal: </h1><br>
 To find the best machine learning techniques for my dataset.<br>
 <h1>Directory:</h1><br>
