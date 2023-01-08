@@ -6,9 +6,9 @@
 Human immunodeficiency virus or HIV is a virus that attacks the body’s immune system. HIV is a virus that has become a world problem as its cure has not yet been found. The HIV can go to an undetected state if only treated by ART or antiretroviral therapy. Hence, knowing the danger that HIV brings, we are here to analyze the HIV using with several of its categories between 75 countries. We are planning to use machine learning techniques that are available. We will use both supervised and unsupervised learning, then we will do evaluation by using accuracy testing. After that, we will conclud ewhich machine learning is the best to applied to our dataset.
 <br>
 <h1>Directory:</h1><br>
-<ul><li>DataCleaning</li><br>
-<li> Methodology</li><br>
-<li> dataset.csv</li><br>
+<ul><li>DataCleaning : contains how I got the data, process, clean, and the result.</li><br>
+<li> Methodology : contains the implementation of both supervised and unsupervised learning techniques. </li><br>
+<li> dataset.csv : a csv that explains about where I got the data with its refereces. </li><br>
 <!-- There are <u>3 folders</u> in this page that you can find:<br><br>
 <ul><li>DataCleaning1</li><br>
 <li>DataCleaning2<br>
