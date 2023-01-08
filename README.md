@@ -3,7 +3,7 @@
 <br>
 <t>My name is William Jonathan Mulyadi, I'm currently an undergraduate student at Bina Nusantara International University. This github repository contains the files tht is used to create my Final Project for Fundamental of Data Science.<br>
 <h1>Details of the project:</h1><br>
-Human immunodeficiency virus or HIV is a virus that attacks the body’s immune system. HIV is a virus that has become a world problem as its cure has not yet been found. The HIV can go to an undetected state if only treated by ART or antiretroviral therapy. Hence, knowing the danger that HIV brings, we are here to analyze the HIV using with several of its categories between 75 countries. We are
+Human immunodeficiency virus or HIV is a virus that attacks the body’s immune system. HIV is a virus that has become a world problem as its cure has not yet been found. The HIV can go to an undetected state if only treated by ART or antiretroviral therapy. Hence, knowing the danger that HIV brings, we are here to analyze the HIV using with several of its categories between 75 countries. We are planning to use machine learning techniques that are available. We will use both supervised and unsupervised learning, then we will do evaluation by using accuracy testing. After that, we will conclud ewhich machine learning is the best to applied to our dataset.
 
 <!-- There are <u>3 folders</u> in this page that you can find:<br><br>
 1.DataCleaning1<br>
