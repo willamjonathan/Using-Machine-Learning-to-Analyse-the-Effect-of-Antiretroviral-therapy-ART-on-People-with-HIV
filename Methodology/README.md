@@ -15,7 +15,10 @@ Contains the code and evaluation of the unsupervised machine learning techniques
 
 <br>
 
-  
+ 
+<h1>Additional Notes:</h1>
+<br>
+I also tried to do the time series, but I don't quite get it. Here is the link to my trial: https://colab.research.google.com/drive/1llzjAkLsC4WQRznXY3lGFxWe9bD04AUd?usp=sharing
 <br><br>
 Thank you!<br>
 <br><br>
