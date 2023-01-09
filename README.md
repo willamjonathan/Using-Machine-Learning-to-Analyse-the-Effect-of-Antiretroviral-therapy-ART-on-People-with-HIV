@@ -14,6 +14,9 @@ To find the best machine learning techniques for my dataset.<br>
 <ul><li>DataCleaning : contains how I got the data, process, clean, and the result.</li><br>
 <li> Methodology : contains the implementation of both supervised and unsupervised learning techniques. </li><br>
 <li> dataset.csv : a csv that explains about where I got the data with its refereces. </li><br></ul>
+<h1>PowerPoint link:</h1><br>
+https://www.canva.com/design/DAFXIYQqMr0/Jnu6w0m7bPriMOxYiM9JCg/view?utm_content=DAFXIYQqMr0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+<br>
 
 <h1>References :</h1><br><br>
 To see the references, please open the file named "dataset.csv". <br>
