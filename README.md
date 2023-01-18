@@ -8,7 +8,7 @@ Human immunodeficiency virus or HIV is a virus that attacks the body’s immune 
 <h1>Details of creator: </h1><br>
 1. William Jonathan Mulyadi - 2502045683 - L3AC <BR>
 <h1> Goal: </h1><br>
-To find the best machine learning techniques for my dataset.<br>
+To find the best machine learning techniques for predicting the effect of ART to the population with HIV in 75 countries. Besides that, to identify groups of similar objects in datasets with two or more variable quantities by using clustering method.<br>
 <h1>Directory:</h1><br>
 <ul><li>DataCleaning : contains how I got the data, process, clean, and the result.</li><br>
 <li> Methodology : contains the implementation of both supervised and unsupervised learning techniques. </li><br>
