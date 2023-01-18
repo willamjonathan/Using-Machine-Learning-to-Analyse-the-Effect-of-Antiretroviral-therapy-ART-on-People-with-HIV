@@ -1,6 +1,7 @@
 <b><h1>METHODOLOGY</h1></b>
 <h3><b>Dear reader,</h3>
 
+You can just ignore this file, this file contains my trial and error in finishing my Final Project <br>
 There are <u>2 folders</u> in this page that you can find:<br><br>
 1.supervised<br>
 2.unsupervised<br>
