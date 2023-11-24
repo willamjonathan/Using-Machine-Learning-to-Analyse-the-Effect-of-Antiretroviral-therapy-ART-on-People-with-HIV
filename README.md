@@ -1,4 +1,5 @@
 <b><h1>FUNDAMENTAL OF DATA SCIENCE FINAL PROJECT</h1></b>
+LINK: https://ieeexplore.ieee.org/document/10291717
 <h3><b>Dear reader,</h3>
 <br>
 <t>My name is William Jonathan Mulyadi, I'm currently an undergraduate student at Bina Nusantara International University. This github repository contains the files tht is used to create my Final Project for Fundamental of Data Science.<br>
